@@ -3,9 +3,7 @@ TBL-blockchain
  
 
 # INFO
-=
 ## Web-Site
--
 1. http://www.tblchain.com/
 2. http://thebrandlaureate.com/
 3. http://thebrandlaureateworldrecords.com/
@@ -14,7 +12,6 @@ TBL-blockchain
 
 
 # RPC服务器选项：
--
 -server
 接受命令行以及JSON-RPC命令 
 
